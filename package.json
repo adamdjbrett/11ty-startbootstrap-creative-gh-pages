@@ -1,0 +1,14 @@
+{
+  "name": "11ty-startbootstrap-creative-gh-pages",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve"
+  },
+  "description": "A faithful Eleventy conversion of the Start Bootstrap Creative theme.",
+  "dependencies": {
+    "@11ty/eleventy": "3.1.6"
+  }
+}
